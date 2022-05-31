@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>Image File</key>
-			<string>mkdictionaries.png</string>
+			<string>Dictionary.png</string>
 			<key>Title</key>
 			<string>辞書 by 物書堂</string>
 			<key>URL</key>
@@ -31,10 +31,8 @@
 	<key>Extension Description</key>
 	<string>Search word on 辞書 by 物書堂</string>
 	<key>Extension Identifier</key>
-	<string>jp.cat-soft.popclip.extension.mkdictionaries</string>
+	<string>com.shuntaroy.popclip.extension.mkdictionaries</string>
 	<key>Extension Name</key>
 	<string>辞書 by 物書堂</string>
-	<key>Preserve Image Color</key>
-	<true/>
 </dict>
 </plist>
